@@ -1,16 +1,17 @@
 {
   "bg": "https://www.hitalent.co/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmJDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1452099b706ad7d079f7a3a4dd5d702ebeeae45f/HiTalent.png",
-  "title": "Quiz sobre a Apple #AppleQuiz",
-  "description": "Um quiz rápido sobre a Apple e seus produtos",
+  "title": "Quiz sobre o mundo Apple ",
+  "description": "Um quiz rápido sobre o mundo Apple e seus produtos",
   "questions": [
     {
       "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-      "title": "Qual a diferença entre = , == e === ?",
+      "title": "Quem foram os fundadores da Apple",
       "description": "Pergunta fácil em!",
       "answer": 1,
       "alternatives": [
-        "São a mesma coisa",
-        "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
+        "Steve Jobs, Steve Wozniak e Thomas Green Morton",
+        "Steve Jobs, Steve Wozniak e Ronald Wayne"
+        "Steve Jobs, Steve Wozniak e Jony Ive"
       ]
     },
     {
