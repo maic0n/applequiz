@@ -16,12 +16,13 @@
     },
     {
       "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
-      "title": "Que tipos de dados são suportados em JavaScript?",
+      "title": "Quantas operações o processador do iPhone XS faz em cada foto tirada?",
       "description": "E agora? Você sabe?",
       "answer": 0,
       "alternatives": [
-        "Number, String, Undefined, Null e Bool.",
-        "Int, String, Undefined, Null e Bool."
+        "1 trilhão de operações",
+        "1 bilhão de operações",
+        "100 milhões de operações"
       ]
     },
     {
