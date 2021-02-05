@@ -19,7 +19,7 @@ import Button from '../src/components/Button';
 //   flex: 1;
 //   background-size: cover;
 //   background-position: center;
-// `
+// `;
 
 const QuizContainer = styled.div`
   width: 100%;
