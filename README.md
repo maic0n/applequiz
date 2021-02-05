@@ -11,7 +11,7 @@ Seja bem vindo ao projeto base do AluraQuiz!!! Passos fundamentais:
 
 > [Vitrine da Imersão](https://aluraquiz-base.alura-challenges.vercel.app/contribuidores)
 
-- [Siga os passos](/CONTRIBUTING.md)
+- [Siga os passos](/CONTRIBUTING.md) - teste
 
 ## Onde está o Layout base?
 - [Link](https://www.figma.com/file/cg1MIzSRRss8ggpypQbmdD/AluraQuiz?node-id=0%3A1)
