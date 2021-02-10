@@ -26,22 +26,52 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a diferença de window e global?",
+      "image": "https://media.giphy.com/media/i6JLRbk4f2gIU/giphy.gif",
+      "title": "Enquanto Jobs ocupava o centro das atenções nas apresentações da Apple, o homem que liderou a equipe de design do iMac, iPod e iPhone foi?",
       "answer": 1,
       "alternatives": [
-        "São a mesma coisa",
-        "window é o escopo global no browser, e global no node"
+        "John Coltrane",
+        "Jonathan Ive",
+        "Jonathan Woz"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a forma antiga de trabalhar com AJAX na Web?",
+      "image": "https://media.giphy.com/media/CTkWFZ1IDvsfS/giphy.gif",
+      "title": "O Apple I seria lançado por U$ 667.00, porém, Steve Wozniack decidiu mudar para US$ 666,66. Qual foi a explicação de Steve Wozniack para essa mudança?",
+      "answer": 2,
+      "alternatives": [
+        "Woz nunca explicou o real motivo da mudança",
+        "Ele acreditava que números impares dão azar",
+        "Simplesmente por considerar mais fácil de digitar"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/26n79t82lmj989iAE/giphy.gif",
+      "title": "Uma equipe de 1.000 funcionários trabalhou em segredo no que ficou conhecido como Project Purple, que acabou produzindo o 1º iPhone. Quanto custou o projeto e quanto tempo foi necessário?",
+      "answer": 2,
+      "alternatives": [
+        "18 meses, custando US$ 75 bilhões",
+        "24 meses, custando US$ 100 bilhões",
+        "30 meses, custando US$ 150 bilhões"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/J5jeMNEG8D8Fd8Hxu0/giphy.gif",
+      "title": "Em 29 de junho de 2007, a Apple revelou o iPhone para o público, usando qual slogan?",
       "answer": 1,
       "alternatives": [
-        "JSONHttpRequest",
-        "XMLHttpRequest",
-        "fetch"
+        "Estamos reinventando o telefone",
+        "Este é apenas o começo"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/J5jeMNEG8D8Fd8Hxu0/giphy.gif",
+      "title": "Em anúncios do iPhone, a hora que o aparelho mostra é sempre 9h41. Por que?",
+      "answer": 1,
+      "alternatives": [
+        "Esta foi a hora que a equipe de marketing finalizou o primeiro material de divulgação",
+        "Esta foi a hora em que o primeiro iPhone da história foi revelado por Steve Jobs",
+        "Esta foi a hora que Steve Jobs nasceu"
       ]
     }
   ],
