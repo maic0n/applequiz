@@ -4,7 +4,7 @@
   "description": "Um quiz rápido sobre o mundo Apple e seus produtos",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
+      "image": "https://media.giphy.com/media/bfrlODgSLqXxS/giphy.gif",
       "title": "Quem foram os fundadores da Apple",
       "description": "Pergunta fácil em!",
       "answer": 1,
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
+      "image": "https://media.giphy.com/media/3o85xC8sdW7vmG6bRe/giphy.gif",
       "title": "Quantas operações o processador do iPhone XS faz em cada foto tirada?",
       "description": "E agora? Você sabe?",
       "answer": 0,
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/i6JLRbk4f2gIU/giphy.gif",
+      "image": "https://media.giphy.com/media/908fS3eQFUodG/giphy.gif",
       "title": "Enquanto Jobs ocupava o centro das atenções nas apresentações da Apple, o homem que liderou a equipe de design do iMac, iPod e iPhone foi?",
       "answer": 1,
       "alternatives": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/CTkWFZ1IDvsfS/giphy.gif",
+      "image": "https://media.giphy.com/media/4loSfAbnJxxsc/giphy.gif",
       "title": "O Apple I seria lançado por U$ 667.00, porém, Steve Wozniack decidiu mudar para US$ 666,66. Qual foi a explicação de Steve Wozniack para essa mudança?",
       "answer": 2,
       "alternatives": [
@@ -65,15 +65,26 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/J5jeMNEG8D8Fd8Hxu0/giphy.gif",
+      "image": "https://media.giphy.com/media/mEDKPv2rcMCWE8uuey/giphy.gif",
       "title": "Em anúncios do iPhone, a hora que o aparelho mostra é sempre 9h41. Por que?",
       "answer": 1,
       "alternatives": [
         "Esta foi a hora que a equipe de marketing finalizou o primeiro material de divulgação",
-        "Esta foi a hora em que o primeiro iPhone da história foi revelado por Steve Jobs",
+        "Esta foi a hora em que o primeiro iPhone da história foi revelado por Steve Jobs em 2007",
         "Esta foi a hora que Steve Jobs nasceu"
       ]
-    }
+    },
+    {
+      "image": "https://media.giphy.com/media/3FbXPFlkfXzUjySTOa/giphy.gif",
+      "title": "Qual a capacidade de processamento do Neural Engine do Chip A14 Bionic que equipa a linha de iPhones 12?",
+      "answer": 2,
+      "alternatives": [
+        "3 Trilhões de operações por segundo",
+        "7 Trilhões de operações por segundo",
+        "11 Trilhões de operações por segundo",
+        "13 Trilhões de operações por segundo"
+      ]
+    },
   ],
   "external": [
     "https://aluraquiz-css.omariosouto.vercel.app/",
