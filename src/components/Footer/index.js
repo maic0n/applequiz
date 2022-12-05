@@ -1,3 +1,4 @@
+import React from "react";
 import styled from "styled-components";
 
 // src/components/Footer/index.js
@@ -32,11 +33,11 @@ export default function Footer(props) {
       <a href="https://www.codenext.tec.br">
         <img
           src="https://www.codenext.tec.br/logo/logo-v3-300.png"
-          alt="Logo - Code Next"
+          alt="Logo da Code Next Tecnologia"
         />
       </a>
       <p>
-        Orgulhosamente criado durante a{" "}
+        {"Orgulhosamente criado durante a "}
         <a href="https://www.alura.com.br/">
           <span>Imersão React da Alura</span>
         </a>
