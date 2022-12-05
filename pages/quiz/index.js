@@ -7,10 +7,7 @@ import db from '../../db.json';
 export default function QuizDaGaleraPage() {
   return (
     <ThemeProvider theme={db.theme}>
-      <QuizScreen
-        externalQuestions={db.questions}
-        externalBg={db.bg}
-      />
+      <QuizScreen externalQuestions={db.questions} externalBg={db.bg} />
     </ThemeProvider>
   );
 }

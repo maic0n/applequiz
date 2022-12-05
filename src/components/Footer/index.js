@@ -1,5 +1,5 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react';
+import styled from 'styled-components';
 
 // src/components/Footer/index.js
 const FooterWrapper = styled.footer`
@@ -31,13 +31,10 @@ export default function Footer(props) {
     // eslint-disable-next-line react/jsx-props-no-spreading
     <FooterWrapper {...props}>
       <a href="https://www.codenext.tec.br">
-        <img
-          src="https://www.codenext.tec.br/logo/logo-v3-300.png"
-          alt="Logo da Code Next Tecnologia."
-        />
+        <img src="https://www.codenext.tec.br/logo/logo-v3-300.png" alt="Logo da Code Next Tecnologia." />
       </a>
       <p>
-        {"Orgulhosamente criado durante a "}
+        {'Orgulhosamente criado durante a '}
         <a href="https://www.alura.com.br/">
           <span>Imersão React da Alura</span>
         </a>
