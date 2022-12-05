@@ -32,7 +32,7 @@ export default function Footer(props) {
       <a href="https://www.codenext.tec.br">
         <img
           src="https://www.codenext.tec.br/logo/logo-v3-300.png"
-          alt="Logo da Code Next"
+          alt="Logo - Code Next"
         />
       </a>
       <p>
