@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import React from 'react';
 import styled from 'styled-components';
 import Head from 'next/head';
@@ -13,13 +14,6 @@ import Footer from '../src/components/Footer';
 import GitHubCorner from '../src/components/GitHubCorner';
 import Input from '../src/components/Input';
 import Button from '../src/components/Button';
-
-// const BackgroundImage = styled.div`
-//   background-image: url(${db.bg});
-//   flex: 1;
-//   background-size: cover;
-//   background-position: center;
-// `;
 
 const QuizContainer = styled.div`
   width: 100%;
@@ -37,7 +31,7 @@ export default function Home() {
   const [name, setName] = React.useState('');
 
   return (
-    <QuizBackground backgroundImage={db.bg}>
+    <QuizBackground $backgroundimage={db.bg}>
       <Head>
         <title>{`AluraQuiz -${db.title}`}</title>
       </Head>
@@ -59,7 +53,7 @@ export default function Home() {
           <Widget.Content>
             <p>{db.description}</p>
             <form
-              onSubmit={function (infosDoEvento) {
+              onSubmit={(infosDoEvento) => {
                 infosDoEvento.preventDefault();
                 router.push(`/quiz?name=${name}`);
                 console.log('Fazendo uma submissão por meio do react');

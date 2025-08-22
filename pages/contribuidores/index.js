@@ -31,7 +31,7 @@ https://gerador-de-imagens-omariosouto.alura-challenges.vercel.app/api/image-gen
   `;
 
   return (
-    <a href={src} style={{ display: 'inline-block', fontSize: '0' }}>
+    <a href={src} style={{ display: 'inline-block', fontSize: '0' }} aria-label="Image">
       <img
         style={{ width: '100%', height: '250px', objectFit: 'cover' }}
         // width={width}
@@ -44,7 +44,7 @@ https://gerador-de-imagens-omariosouto.alura-challenges.vercel.app/api/image-gen
 
 export default function ContributorsPage({ contributors }) {
   return (
-    <QuizBackground backgroundImage="https://www.alura.com.br/assets/img/imersoes/react-2/fundo-do-mar-imersao-react-2-01.1609262503.svg">
+    <QuizBackground $backgroundimage="https://www.alura.com.br/assets/img/imersoes/react-2/fundo-do-mar-imersao-react-2-01.1609262503.svg">
       <QuizContainer style={{ margin: 'auto', padding: '5%', maxWidth: '1400px' }}>
         <QuizLogo />
         <Widget style={{ maxWidth: '350px', marginLeft: 'auto', marginRight: 'auto' }}>
