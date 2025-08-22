@@ -16,7 +16,7 @@ import loadingAnimation from './animations/loading.json';
 function ResultWidget({ results }) {
   return (
     <Widget>
-      <Widget.Header>Tela de Resultado:</Widget.Header>
+      <Widget.Header>Resultados:</Widget.Header>
 
       <Widget.Content>
         <p>
