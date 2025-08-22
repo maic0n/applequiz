@@ -5,4 +5,7 @@ module.exports = {
       'api.screenshotmachine.com',
     ],
   },
+  compiler: {
+    styledComponents: true,
+  },
 };
