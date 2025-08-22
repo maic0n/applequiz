@@ -34,7 +34,7 @@ function ResultWidget({ results }) {
           {results.map((result, index) => (
             <li key={result}>
               #{index + 1} Resultado:
-              {result === true ? 'Acertou' : 'Errou'}
+              {result === true ? ' Acertou' : ' Errou'}
             </li>
           ))}
         </ul>
@@ -183,7 +183,7 @@ export default function QuizPage({ externalQuestions, externalBg }) {
   }
 
   return (
-    <QuizBackground backgroundimage={bg}>
+    <QuizBackground $backgroundimage={bg}>
       <QuizContainer>
         <QuizLogo />
         {screenState === screenStates.QUIZ && (
@@ -192,7 +192,7 @@ export default function QuizPage({ externalQuestions, externalBg }) {
             questionIndex={questionIndex}
             totalQuestions={totalQuestions}
             onSubmit={() => handleSubmitQuiz()}
-            addResult={() => addResult()}
+            addResult={(res) => addResult(res)}
           />
         )}
 
