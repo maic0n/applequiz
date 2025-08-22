@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import React from 'react';
 import styled from 'styled-components';
 import Head from 'next/head';
@@ -59,7 +60,7 @@ export default function Home() {
           <Widget.Content>
             <p>{db.description}</p>
             <form
-              onSubmit={function (infosDoEvento) {
+              onSubmit={(infosDoEvento) => {
                 infosDoEvento.preventDefault();
                 router.push(`/quiz?name=${name}`);
                 console.log('Fazendo uma submissão por meio do react');

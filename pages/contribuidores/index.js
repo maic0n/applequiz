@@ -31,7 +31,7 @@ https://gerador-de-imagens-omariosouto.alura-challenges.vercel.app/api/image-gen
   `;
 
   return (
-    <a href={src} style={{ display: 'inline-block', fontSize: '0' }}>
+    <a href={src} style={{ display: 'inline-block', fontSize: '0' }} aria-label="Image">
       <img
         style={{ width: '100%', height: '250px', objectFit: 'cover' }}
         // width={width}
